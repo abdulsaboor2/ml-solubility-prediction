@@ -12,7 +12,7 @@ This project is a step forward in my journey into Machine Learning, where I aim 
 
 ## Dataset
 - **Name:** Delaney Solubility Dataset
-- **Source:** [GitHub Dataset Link](https://raw.githubusercontent.com/dataprofessor/data/master/delaney_solubility_with_descriptors.csv)
+- **Source:** [GitHub Dataset Link](https://raw.githubusercontent.com/abdulsaboor2/ml-solubility-prediction/refs/heads/main/delaney_solubility_with_descriptors.csv)
 - **Description:** The dataset contains molecular descriptors and their corresponding experimental solubility values (LogS).
 
 ---
