@@ -22,3 +22,12 @@ This project is a step forward in my journey into Machine Learning, where I aim 
 Clone this repository:
 ```bash
 git clone https://github.com/abdulsaboor2/ml-solubility-prediction.git
+```
+## Installation
+
+### Evaluation Metrics:
+![image](https://github.com/user-attachments/assets/859f57ed-8d12-4f6b-8aff-719ca0ee4d7d)
+
+
+### Visualization: 
+![image](https://github.com/user-attachments/assets/c121fbe2-5bb9-4307-80d6-bcaec8adc845)
