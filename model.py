@@ -7,7 +7,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 
 # Load the dataset
-df = pd.read_csv('https://raw.githubusercontent.com/dataprofessor/data/master/delaney_solubility_with_descriptors.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/abdulsaboor2/ml-solubility-prediction/refs/heads/main/delaney_solubility_with_descriptors.csv')
 
 # Display the dataset
 print(df.head())
